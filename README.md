@@ -52,7 +52,7 @@ This project explores the implementation of the Variational Quantum Eigensolver 
 
 ## 💬 Contact Information
 
-- **LinkedIn**: [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi)
+- **LinkedIn**: [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi-quantum-cryptogtapher)
 - **Email**: daniil.krizhanovskyi@hotmail.com
 - **GitHub**: [dkrizhanovskyi](https://github.com/dkrizhanovskyi)
 
