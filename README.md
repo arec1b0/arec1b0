@@ -1,88 +1,60 @@
-## About Me
+# Daniil Krizhanovskyi - Researcher in Quantum Computing and Applied Mathematics
 
-Hi, I'm Daniil Krizhanovskyi, a passionate Java Backend Developer with experience in freelance and internship projects. Explore my work and get to know more about my journey in the tech world.
+Welcome to my github portfolio. I am a researcher specializing in quantum computing, cryptography, and backend development. My work is rooted in applied mathematics, with a strong focus on the intersection of theoretical research and practical applications in modern computing technologies.
 
-### Skills
-- Java Development
-- Spring Framework
-- Microservices Architecture
-- Database Management
-- RESTful APIs
-- Docker
-- CI/CD (Jenkins, GitLab CI)
-- Unit Testing (JUnit, Mockito)
-- Security Practices (Spring Security)
-- Cloud Platforms (AWS, Google Cloud, Azure)
+## 🛠 Academic Expertise
 
-## Projects
+- **Quantum Computing**: Proficient in quantum algorithm design, particularly in the context of quantum cryptographic protocols. Extensive experience with quantum computing frameworks, including Qiskit.
+- **Cryptography**: Specialized in both classical and post-quantum cryptography. My research focuses on the development and analysis of cryptographic algorithms resistant to quantum attacks.
+- **Applied Mathematics**: Expertise in mathematical modeling, computational algorithms, and number theory, with applications in cryptography and data security.
+- **Programming Languages**: Advanced proficiency in Rust, Python, Java, and MATLAB, with a focus on developing high-performance computational tools.
 
-### Travel Guide Backend System
-**Duration:** October 2022 - March 2023
+## 🎓 Academic Background
 
-Developed a backend system for a travel guide application, aimed at providing users with detailed information about various travel destinations.
+- **Master of Science in Applied Mathematics**  
+  *Lviv Polytechnic National University* (2020-2022)  
+  Dissertation: "Mathematical Modeling and Computational Techniques in Quantum Cryptography."
+  
+- **Master of Science in Information Systems and Technologies**  
+  *Odessa National Polytechnic University* (2019)  
+  Thesis: "Development and Implementation of Secure Information Systems in Post-Quantum Cryptography."
 
-**Technologies Used:** Java, Spring Boot, Hibernate, PostgreSQL, Docker, GitHub
+- **Bachelor of Science in Computer Engineering**  
+  *Odessa National Polytechnic University* (2016-2019)  
+  Capstone Project: "Optimization of Cryptographic Algorithms for High-Performance Computing Systems."
 
-**Responsibilities:** Designed and implemented RESTful APIs, managed PostgreSQL database, deployed the application using Docker, and utilized GitHub for version control.
+## 📚 Research Projects
 
-[GitHub Repository](https://github.com/dkrizhanovskyi/travel-guide-backend)
+### [Quantum Cryptographic Toolkit](https://github.com/dkrizhanovskyi/quantum_cryptographic_toolkit)
+This project involves the development of a comprehensive toolkit for quantum cryptography, including quantum key distribution (QKD) protocols and post-quantum cryptographic algorithms. The toolkit is designed for use in secure quantum communication systems, offering tools for both theoretical research and practical implementation.
 
-### Blockchain on Go
-**Duration:** February 2021 - June 2021
+### [Number Theory in Cryptography](https://github.com/dkrizhanovskyi/number_theory_project)
+A research project focused on the application of number theory in the design and analysis of cryptographic algorithms. This project explores the mathematical underpinnings of cryptographic security, with an emphasis on algorithmic efficiency and resistance to cryptographic attacks.
 
-This project implements blockchain written in Go using the Proof of Stake (PoS) consensus algorithm. It includes basic blockchain functionalities like blocks creation, transaction handling, and automatic block addition.
+### [Comparative Analysis of Cryptographic Algorithms](https://github.com/dkrizhanovskyi/crypto-comparison)
+A detailed comparative study of classical and post-quantum cryptographic algorithms. This research evaluates the security, performance, and computational complexity of various cryptographic protocols, providing insights into their applicability in different computational environments.
 
-**Technologies Used:** Go, Protobuf, gRPC, Redis
+### [Variational Quantum Eigensolver (VQE) Project](https://github.com/dkrizhanovskyi/quantum-vqe-project)
+This project explores the implementation of the Variational Quantum Eigensolver (VQE) algorithm for quantum chemistry simulations. The research focuses on optimizing the VQE algorithm for use on near-term quantum hardware, with applications in molecular structure analysis.
 
-**Responsibilities:** Developed core blockchain features, implemented transaction handling, designed and optimized block validation processes.
+## 🧠 Research Interests
 
-### Public Transport Usage Analysis
-**Duration:** March 2020 - June 2020
+- Quantum Cryptography and Secure Communication
+- Post-Quantum Cryptographic Algorithms
+- Mathematical Foundations of Cryptography
+- Quantum Algorithms and Quantum Computing
+- High-Performance Computing in Cryptography
 
-Analyzed and visualized public transport usage across various regions of Switzerland using data science techniques.
+## 📄 Publications
 
-**Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn
+- [Krizhanovskyi, D. "Mathematical Modeling in Quantum Cryptography." *viXra* (2024).](https://vixra.org/abs/2408.0055)
+- [Krizhanovskyi, D. "Comparative Analysis of Post-Quantum Cryptographic Algorithms." *SSRN* (2024).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927124)
 
-**Responsibilities:** Collected and cleaned data from multiple sources, performed statistical analysis, developed models to forecast public transport demand.
+## 💬 Contact Information
 
-[GitHub Repository](https://github.com/dkrizhanovskyi/public-transport-usage-analysis)
+- **LinkedIn**: [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi)
+- **Email**: daniil.krizhanovskyi@hotmail.com
+- **GitHub**: [dkrizhanovskyi](https://github.com/dkrizhanovskyi)
 
-## Education
+Thank you for exploring my academic portfolio. I am open to collaboration opportunities in the fields of quantum computing and cryptography.
 
-### Odessa National Polytechnic University
-**Bachelor's degree, Software Engineering**
-
-**Duration:** September 2016 - July 2019
-
-Graduated with a Bachelor's degree in Software Engineering. Studied core subjects such as software development, testing, and maintenance, along with project management and database design. Member of the scientific club, volunteer at IT conferences.
-
-**GPA:** 3.5
-
-### Odessa National Polytechnic University
-**Master's degree, Computer Science**
-
-**Duration:** September 2020 - November 2021
-
-Graduated with a Master's degree in Computer Science. The program covered advanced topics such as machine learning, artificial intelligence, data analysis, and software development. Actively participated in research and was a member of the scientific club, volunteer at IT conferences.
-
-**GPA:** 3.7
-
-## Experience
-
-### Freelance Java Developer Experience
-**Duration:** Various periods from 2019
-
-Worked on various freelance projects focusing on Java backend development. Gained experience in building RESTful APIs, managing databases, and deploying applications using Docker.
-
-### Billing.media Ukraine
-**Position:** Java Developer Intern
-**Duration:** January 2019 - June 2019
-
-Worked on developing Java-based applications and participated in the full software development lifecycle.
-
-## Contact
-
-Feel free to reach out to me through any of the platforms below:
-- **Email:** [dkrizhanovskyi@example.com](mailto:dkrizhanovskyi@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/daniil-krizhanovskyi)
-- **GitHub:** [GitHub Profile](https://github.com/dkrizhanovskyi)
