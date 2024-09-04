@@ -21,7 +21,7 @@ Welcome to my github portfolio. I am a researcher specializing in quantum comput
 
 - **Bachelor of Science in Computer Engineering**  
   *Odessa National Polytechnic University* (2016-2019)  
-  Capstone Project: "Optimization of Cryptographic Algorithms for High-Performance Computing Systems."
+  Capstone Project: "Conveyor Machine Optimization."
 
 ## 📚 Research Projects
 
