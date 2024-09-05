@@ -13,11 +13,11 @@ Welcome to my github portfolio. I am a researcher specializing in quantum comput
 
 - **Master of Science in Applied Mathematics**  
   *Lviv Polytechnic National University* (2020-2022)  
-  Thesis: "Mathematical Modeling and Computational Techniques in Quantum Cryptography."
+  Thesis: "Mathematical Modeling and Computational Techniques in Modern Cryptography."
   
 - **Master of Science in Information Systems and Technologies**  
   *Odessa National Polytechnic University* (2019)  
-  Thesis: "Development and Implementation of Secure Information Systems in Post-Quantum Cryptography."
+  Thesis: "Development and Implementation of Secure Information Systems in Modern Cryptography."
 
 - **Bachelor of Science in Computer Engineering**  
   *Odessa National Polytechnic University* (2016-2019)  
