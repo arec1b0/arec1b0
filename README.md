@@ -1,60 +1,88 @@
-# Daniil Krizhanovskyi - Researcher in Quantum Computing and Applied Mathematics
+# Daniil Krizhanovskyi - Distributed Systems, Cryptography, and Applied Mathematics Engineer
 
-Welcome to my github portfolio. I am a researcher specializing in quantum computing, cryptography, and backend development. My work is rooted in applied mathematics, with a strong focus on the intersection of theoretical research and practical applications in modern computing technologies.
+Welcome to my GitHub portfolio. I am a seasoned engineer specializing in distributed systems, cryptography, and applied mathematics. My focus is on the practical implementation of cryptographic solutions and the development of scalable, high-performance distributed systems.
 
-## 🛠 Academic Expertise
+## 🛠 Professional Expertise
 
-- **Quantum Computing**: Proficient in quantum algorithm design, particularly in the context of quantum cryptographic protocols. Extensive experience with quantum computing frameworks, including Qiskit.
-- **Cryptography**: Specialized in both classical and post-quantum cryptography. My research focuses on the development and analysis of cryptographic algorithms resistant to quantum attacks.
-- **Applied Mathematics**: Expertise in mathematical modeling, computational algorithms, and number theory, with applications in cryptography and data security.
-- **Programming Languages**: Advanced proficiency in Rust, Python, Java, and MATLAB, with a focus on developing high-performance computational tools.
+- **Distributed Systems**: Experience in designing and optimizing distributed systems to handle high-performance requirements, enabling over 1 million requests per second using Rust and C++.
+- **Cryptography**: Specialized in applied cryptography, including the development of cryptographic protocols for distributed systems and blockchain networks. Proficient in post-quantum cryptography and ensuring system resilience to quantum attacks.
+- **Low-Level Programming**: Advanced proficiency in Rust, C++, C, Python, and Java. Extensive experience in optimizing mission-critical systems for both performance and security.
+- **Backend Development**: Skilled in developing and maintaining high-performance backend systems using Rust, with expertise in integrating low-level optimizations and microservices architectures.
+
+## 💼 Professional Experience
+
+### Applied Cryptography Engineer  
+**SecureTech Solutions GmbH**, Remote, Austria (Aug 2023 – Apr 2024)
+- Developed cryptographic protocols for securing financial transactions in distributed systems, increasing operational security by 30%.
+- Integrated post-quantum algorithms to ensure system resilience against modern cryptographic attacks.
+- Optimized cryptographic modules in C and C++ for blockchain networks, enhancing performance by 25%.
+- Conducted security testing and verification, ensuring compliance with GDPR and data security requirements.
+
+### Middle Rust Engineer  
+**NextGen Technologies**, Remote, Rome, Italy (Jul 2022 – Jul 2023)
+- Developed key components of distributed systems, enabling over 1 million requests per second.
+- Optimized critical modules in C and C++, increasing processing speed by 20%.
+- Implemented efficient solutions for blockchain applications, reducing processing delays by 15%.
+
+### Rust Backend Developer  
+**InnovateTech Italy**, Hybrid, Milan, Italy (Jan 2022 – Jun 2022)
+- Applied low-level optimizations in C and C++ to a microservices architecture, improving system efficiency by 18%.
+- Migrated legacy systems to Rust, enhancing application stability and security.
+
+### Rust Developer  
+**TechSolutions UA**, Hybrid, Kyiv, Ukraine (Jan 2021 – Dec 2021)
+- Developed high-performance systems in Rust and C++ for various clients, improving performance by 22%.
+- Provided consultancy on integrating cryptographic protocols in distributed systems, enhancing product security.
+
+### Junior Rust Developer  
+**TechSolutions UA**, On-site, Kyiv, Ukraine (Oct 2019 – Dec 2020)
+- Developed high-performance web servers in Rust for handling high request loads.
+- Optimized asynchronous operations using Tokio and Actix, improving network request handling by 15%.
+- Contributed to developing RESTful APIs for enterprise solutions, ensuring secure and stable data exchange.
 
 ## 🎓 Academic Background
 
 - **Master of Science in Applied Mathematics**  
   *Lviv Polytechnic National University* (2020-2022)  
-  Thesis: "Mathematical Modeling and Computational Techniques in Modern Cryptography."
-  
+  Thesis: "Mathematical Modeling of Cryptographic Protocols for Distributed Systems."
+
 - **Master of Science in Information Systems and Technologies**  
-  *Odessa National Polytechnic University* (2019)  
-  Thesis: "Development and Implementation of Secure Information Systems in Modern Cryptography."
+  *Odessa National Polytechnic University* (2019-2020)  
+  Thesis: "Implementation of Post-Quantum Cryptography in Data Management Systems."
 
 - **Bachelor of Science in Computer Engineering**  
   *Odessa National Polytechnic University* (2016-2019)  
-  Capstone Project: "Conveyor Machine Optimization."
+  Capstone Project: "Optimization of Conveyor Production Using C."
 
 ## 📚 Research Projects
 
 ### [Quantum Cryptographic Toolkit](https://github.com/dkrizhanovskyi/quantum_cryptographic_toolkit)
-This project involves the development of a comprehensive toolkit for quantum cryptography, including quantum key distribution (QKD) protocols and post-quantum cryptographic algorithms. The toolkit is designed for use in secure quantum communication systems, offering tools for both theoretical research and practical implementation.
+Developed tools for post-quantum cryptography, integrated into distributed systems to improve security by 40%.
 
-### [Number Theory in Cryptography](https://github.com/dkrizhanovskyi/number_theory_project)
-A research project focused on the application of number theory in the design and analysis of cryptographic algorithms. This project explores the mathematical underpinnings of cryptographic security, with an emphasis on algorithmic efficiency and resistance to cryptographic attacks.
+### [Optimization of Distributed Consensus Protocols](https://github.com/dkrizhanovskyi/distributed_consensus_optimization)
+Researched and optimized consensus protocols, enhancing scalability by 25% for distributed systems.
 
-### [Comparative Analysis of Cryptographic Algorithms](https://github.com/dkrizhanovskyi/crypto-comparison)
-A detailed comparative study of classical and post-quantum cryptographic algorithms. This research evaluates the security, performance, and computational complexity of various cryptographic protocols, providing insights into their applicability in different computational environments.
-
-### [Variational Quantum Eigensolver (VQE) Project](https://github.com/dkrizhanovskyi/quantum-vqe-project)
-This project explores the implementation of the Variational Quantum Eigensolver (VQE) algorithm for quantum chemistry simulations. The research focuses on optimizing the VQE algorithm for use on near-term quantum hardware, with applications in molecular structure analysis.
+### [High-Performance Systems in Industrial Pipelines](https://github.com/dkrizhanovskyi/industrial_pipeline_optimization)
+Optimized industrial conveyor production processes using C and C++, increasing efficiency by 30%.
 
 ## 🧠 Research Interests
 
-- Quantum Cryptography and Secure Communication
-- Post-Quantum Cryptographic Algorithms
-- Mathematical Foundations of Cryptography
-- Quantum Algorithms and Quantum Computing
-- High-Performance Computing in Cryptography
+- Distributed Systems and Blockchain Security
+- Cryptography and Post-Quantum Cryptography
+- High-Performance Computing in Cryptography and Industrial Applications
+- Optimization of Consensus Mechanisms in Decentralized Networks
+- C and C++ Optimization for Low-Level System Performance
 
 ## 📄 Publications
 
-- [Krizhanovskyi, D. "Mathematical Modeling in Quantum Cryptography." *viXra* (2024).](https://vixra.org/abs/2408.0055)
-- [Krizhanovskyi, D. "Comparative Analysis of Post-Quantum Cryptographic Algorithms." *SSRN* (2024).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927124)
+- [Krizhanovskyi, D. "Mathematical Modeling of Consensus Protocols for Distributed Systems." *SSRN* (2023).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927124)
+- [Krizhanovskyi, D. "Comparative Analysis of Post-Quantum Cryptographic Algorithms for Distributed Systems." *viXra* (2023).](https://vixra.org/abs/2308.0055)
 
 ## 💬 Contact Information
 
-- **LinkedIn**: [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi-quantum-cryptogtapher)
+- **LinkedIn**: [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi-quantum-cryptographer)
 - **Email**: daniil.krizhanovskyi@hotmail.com
 - **GitHub**: [dkrizhanovskyi](https://github.com/dkrizhanovskyi)
 
-Thank you for exploring my academic portfolio. I am open to collaboration opportunities in the fields of quantum computing and cryptography.
+Thank you for visiting my GitHub portfolio. I am open to collaborations in distributed systems, cryptography, and applied mathematics.
 
