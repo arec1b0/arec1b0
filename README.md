@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio. I am an experienced engineer specializing in cybersecurity, cryptography, and distributed systems. With a strong foundation in applied mathematics and low-level programming, I focus on building secure, high-performance systems and developing advanced cryptographic solutions.
 
 ![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkrizhanovskyi&show=repos,prs_merged_percentage&hide=contribs,prs,&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrizhanovskyi&layout=compact&size_weight=0&count_weight=1&hide=javascript,html,css,python,makefile,dockerfile,go,java&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrizhanovskyi&layout=compact&size_weight=0.7&count_weight=0.3&hide=javascript,html,css,makefile,python,dockerfile,go,java,ipynb&theme=tokyonight)
 
 ## 🛠 Professional Expertise
 
