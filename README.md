@@ -1,91 +1,73 @@
-# Daniil Krizhanovskyi - Cybersecurity, Cryptography, and Distributed Systems Engineer
+# Daniil Krizhanovskyi | Cryptography & Distributed Systems
 
-Welcome to my GitHub portfolio. I am an experienced engineer specializing in cybersecurity, cryptography, and distributed systems. With a strong foundation in applied mathematics and low-level programming, I focus on building secure, high-performance systems and developing advanced cryptographic solutions.
+<div align="center">
 
-![Dani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkrizhanovskyi&show=repos,prs_merged_percentage&hide=contribs,prs,&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrizhanovskyi&layout=compact&size_weight=0.7&count_weight=0.3&hide=javascript,html,css,makefile,python,dockerfile,go,java,ipynb&theme=tokyonight)
+![Code Time](https://img.shields.io/badge/Code%20Time-4%2C003%20hrs%2020%20mins-blue?style=for-the-badge)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=arec1b0&base=321&color=2188ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/arec1b0)
+[![GitHub Stars](https://img.shields.io/github/stars/hdevalence?logo=github&style=for-the-badge&color=2188ff)](https://github.com/arec1b0?tab=repositories)
 
-## 🛠 Professional Expertise
+</div>
 
-- **Distributed Systems**: Designed and optimized systems handling over 1 million requests per second. Expertise in ensuring high-performance and secure operations with Rust and C++.
-- **Cryptography**: Proficient in cryptographic protocols, including AES, RSA, ECC, and post-quantum cryptography. Focused on securing blockchain networks and distributed systems.
-- **Low-Level Programming**: Advanced skills in Rust, C++, C, and Python. Specialize in optimizing mission-critical systems for security and efficiency.
-- **Backend Development**: Expertise in Rust-based backend systems, including microservices architecture and legacy system migration.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hebasto&layout=pie&theme=transparent&hide_border=true&langs_count=5&hide=mdx,html,jupyter%20notebook,javascript,css,makefile,dockerfile,cmake,m4,scheme,roff&size_weight=0.5&count_weight=0.5&" />
 
-## 💼 Professional Experience
+## $ whoami?
+> **"Architecting secure, scalable, quantum-resilient decentralized systems."**
 
-### Applied Cryptographer  
-**OpenZeppelin**, Remote (Dec 2023 – Jun 2024, Now Contributor)  
-- Conducted security analyses of zero-knowledge proof systems, identifying and mitigating vulnerabilities.  
-- Engineered cryptographic components in Rust, Go, and Solidity to enhance blockchain application security.  
-- Audited Ethereum-based smart contracts, optimizing them for cryptographic robustness and gas efficiency.  
-- Advanced research in cryptographic primitives such as roots of unity and elliptic curves.
+Decentralized Systems Architect with deep expertise in quantum-resistant cryptography, secure distributed systems, and blockchain scalability. Currently CTO at [@**PeoChain**](https://github.com/PeoPay), driving innovation in financial decentralization.
 
-### Applied Cryptography Engineer  
-**SecureTech Solutions GmbH**, Remote, Austria (Aug 2023 – Apr 2024)  
-- Led cryptographic audits to identify vulnerabilities, maintaining a zero-security-breach record for two years.  
-- Developed secure key management solutions, reducing key compromise incidents by 40%.  
-- Optimized assembly-level encryption routines for ARM and x86 architectures, improving performance.
+### 🛠️ Core Technologies
 
-### Middle Rust Engineer  
-**NextGen Technologies**, Remote, Italy (Jul 2022 – Jul 2023)  
-- Designed distributed systems managing over 1 million requests per second.  
-- Implemented cryptographic solutions for blockchain applications, reducing processing delays by 15%.  
-- Enhanced security testing for performance-critical modules, improving system security by 20%.
+- **Cryptography**: Post-Quantum Cryptography (Kyber, Falcon), zk-SNARKs, Elliptic-Curve Cryptography (ECC)
+- **Languages**: Rust, C++, Solidity, Python
+- **Blockchain**: Layer-2 Scaling (Rollups, ZK-EVM), Smart Contract Security, Consensus Algorithms (PoS, BFT)
 
-### Rust Backend Developer  
-**InnovateTech Italy**, Hybrid, Italy (Jan 2022 – Jun 2022)  
-- Migrated legacy systems to Rust, resolving vulnerabilities and improving security posture.  
-- Conducted threat modeling and applied low-level optimizations to enhance resilience and efficiency.
+[Explore PeoChain](https://peochain.xyz) | [Explore PeoPay](https://peopay.io)
 
-### Rust Developer  
-**TechSolutions UA**, Hybrid, Ukraine (Jan 2021 – Dec 2021)  
-- Delivered high-performance systems for enterprise clients, increasing security by 22%.  
-- Advised on integrating cryptographic protocols into distributed systems to mitigate risks.
+```
+impl Expertise {
+    pub fn new() -> Self {
+        Self {
+            cryptography: vec!["PQC", "ECC", "zk-SNARKs"],
+            languages: vec!["Rust", "C++", "Solidity"],
+            blockchain: vec!["Consensus", "Smart Contracts", "L2 Scaling"],
+        }
+    }
+}
+```
 
-### Junior Rust Developer  
-**TechSolutions UA**, On-Site, Ukraine (Oct 2019 – Dec 2020)  
-- Built secure web servers handling high request loads, using asynchronous programming.  
-- Contributed to optimizing real-time network operations.
+<div align="center">
 
-## 🎓 Academic Background
+[![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 
-- **Master of Science in Applied Mathematics**  
-  *Lviv Polytechnic National University* (2020–2022)  
-  Thesis: *Mathematical Modeling of Cryptographic Protocols for Secure Distributed Systems.*
+</div>
 
-- **Master of Science in Information Systems and Technologies**  
-  *Odessa National Polytechnic University* (2019–2020)  
-  Thesis: *Implementation of Post-Quantum Cryptography in Secure Data Management Systems.*
+## 📊 GitHub Analytics
 
-## 📚 Research Projects
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdevalence&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hdevalence&theme=chartreuse-dark&starting_year=2021&hide_border=true"/>
+</div>
 
-- **Quantum Cryptographic Toolkit**  
-  Developed tools for post-quantum cryptography, enhancing system resistance to quantum attacks by 40%.  
+## 🎯 Expertise Matrix
 
-- **Optimization of Consensus Protocols**  
-  Improved scalability and resilience of distributed systems by optimizing cryptographic consensus protocols.
+```mermaid
+pie showData
+    title Technical Proficiency
+    "Cryptography" : 86
+    "Distributed Systems" : 90
+    "Systems Programming" : 75
+    "Low-Level Optimization" : 75
+```
 
-- **Blockchain Security Enhancements**  
-  Designed cryptographic modules that reduced vulnerabilities in distributed blockchain networks.
+## 📫 Connect
 
-## 🧠 Research Interests
+<div align="center">
 
-- Cryptographic Security in Blockchain and Distributed Systems  
-- Post-Quantum Cryptography for Cybersecurity Applications  
-- High-Performance Computing in Cryptography  
-- Optimization of Consensus Mechanisms in Decentralized Networks  
-- Threat Mitigation in High-Performance Systems  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dkrizhanovskyi-peo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@dk.arecibo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=proton)](mailto:d.krizhanovskyi@peochain.xyz)
+[![X](https://img.shields.io/badge/X-D14836?style=for-the-badge&logo=X)](https://x.com/arec1b0)
 
-## 📄 Publications
-
-- [Krizhanovskyi, D. "Mathematical Modeling of Consensus Protocols for Distributed Systems." *SSRN* (2024).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4927124)  
-- [Krizhanovskyi, D. "Comparative Analysis of Post-Quantum Cryptographic Algorithms for Distributed Systems." *viXra* (2023).](https://vixra.org/abs/2308.0055)
-
-## 💬 Contact Information
-
-- **LinkedIn**: [Daniil Krizhanovskyi](https://www.linkedin.com/in/daniil-krizhanovskyi-quantum-cryptographer)  
-- **Email**: daniil.krizhanovskyi@hotmail.com  
-- **GitHub**: [dkrizhanovskyi](https://github.com/dkrizhanovskyi)  
-
-Thank you for visiting my GitHub portfolio. I am open to collaborations in cryptography, distributed systems, and high-performance computing.
+</div>
