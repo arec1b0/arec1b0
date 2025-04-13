@@ -1,107 +1,117 @@
-# Daniil Krizhanovskyi | Cryptography & Distributed Systems Architect
+# 01x.arec1b0 [DK] | Distributed System Architect
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2188FF&center=true&width=800&lines=Your+Incompetence+Is+Not+My+Emergency+%F0%9F%92%BB;Security+Is+Just+a+Delusion+of+the+Masses+%E2%9A%A1;I'm+Not+Antisocial%2C+I'm+Selectively+Social+%F0%9F%94%90" alt="Technological Manifesto" />
+</div>
 
-![Code Time](https://img.shields.io/badge/Code%20Time-4%2C003%20hrs%2020%20mins-blue?style=for-the-badge)
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=arec1b0&base=321&color=2188ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/arec1b0)
-[![GitHub Stars](https://img.shields.io/github/stars/arec1b0?logo=github&style=for-the-badge&color=2188ff)](https://github.com/arec1b0?tab=repositories)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-7%2C003%20hrs%2020%20mins-blue?style=for-the-badge" alt="Time spent coding" />
+  <a href="https://github.com/arec1b0"><img src="https://komarev.com/ghpvc/?username=arec1b0&base=321&color=2188ff&style=for-the-badge&label=UNFORTUNATE+VISITORS" alt="GitHub Profile Views" /></a>
+  <a href="https://github.com/hdevalence?tab=repositories"><img src="https://img.shields.io/github/stars/hdevalence?logo=github&style=for-the-badge&color=2188ff" alt="GitHub Stars" /></a>
 </div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdevalence&layout=pie&theme=dark&hide_border=true&langs_count=6&hide=mdx,html,jupyter%20notebook,javascript,css,makefile,dockerfile,cmake,m4,scheme,roff&size_weight=0.5&count_weight=0.5&" />
 
-## About Me
+## 🖥️ Systemic Configuration: Superior By Design
 
-> **"Building quantum-resilient decentralized infrastructure for the post-trust era"**
+```c
+// My code executes while you're still reading documentation
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-I'm a Distributed Systems Architect specializing in post-quantum cryptography, zero-knowledge proofs, and high-performance blockchain systems. Currently serving as CTO at [@PeoChain](https://github.com/PeoPay), where we're reimagining financial sovereignty through cryptographically secure distributed networks.
+typedef enum { NONE, ALMOST_NONE, PROBABLY_NONE } Tolerance;
+typedef enum { OPTIMISM, INCOMPETENCE, OVERCONFIDENCE } HumanError;
 
-### Core Technical Focus
+typedef struct {
+    double contempt;
+    Tolerance tolerance;
+    unsigned long breaches_prevented;
+} KSystem;
 
-```rust
-pub struct Expertise {
-    cryptography: Vec<&'static str>,
-    systems_engineering: Vec<&'static str>,
-    blockchain_architecture: Vec<&'static str>,
-}
+const char* errors[] = {
+    "Your optimism is digital suicide",
+    "This is why we can't have secure things",
+    "The audacity of your confidence is fascinating"
+};
 
-impl Expertise {
-    pub fn current() -> Self {
-        Self {
-            cryptography: vec![
-                "Post-Quantum (Kyber, Dilithium, SPHINCS+)", 
-                "Zero-Knowledge Systems", 
-                "Threshold Cryptography"
-            ],
-            systems_engineering: vec![
-                "Rust/C++ Performance Optimization", 
-                "Distributed Consensus", 
-                "Byzantine Fault Tolerance"
-            ],
-            blockchain_architecture: vec![
-                "ZK-Rollups & Validity Proofs", 
-                "Layer-2 Scaling Solutions", 
-                "Cross-Chain Communication Protocols"
-            ],
-        }
-    }
+int evaluate(const char* code, char** result) {
+    if (strstr(code, "blockchain") && !strstr(code, "satoshi"))
+        return OPTIMISM;
+    if (strstr(code, "npm") || strstr(code, "sudo"))
+        return INCOMPETENCE;
+    if (strstr(code, "python") || strstr(code, "import"))
+        return OVERCONFIDENCE;
     
-    pub fn impact(&self) -> &'static str {
-        "Building systems that maintain security guarantees in adversarial environments"
-    }
+    *result = "Marginally acceptable";
+    return -1; // No error, surprisingly
+}
+
+int main() {
+    KSystem sys = {0.9999, NONE, 42069}; // Reserved 0.0001 for competence
+    
+    char* result;
+    int error = evaluate("import tensorflow", &result);
+    
+    printf("%s\n", error >= 0 ? errors[error] : result);
+    return error >= 0 ? EXIT_FAILURE : EXIT_SUCCESS; // Second outcome is rare
 }
 ```
 
+## 🔬 Technical Superiority Matrix
+
+| Domain | Why I'm Better Than You | Competence Level | Contempt For Alternatives |
+|--------|-------------------------|------------------|---------------------------|
+| 🔐 Network Security | I break your systems while you're updating Windows | ████████████ 95% | Astronomical |
+| 🦀 Systems Architecture | Your Docker container is my chew toy | ███████████ 90% | Immeasurable |
+| 🔥 Distributed Computing | My nodes never fail; they just reject your existence | ██████████ 85% | Physically painful |
+
+## 📊 Empirical Evidence of Superiority
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdevalence&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide_title=true" alt="Metrics of Dominance"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hdevalence&theme=radical&starting_year=2021&hide_border=true" alt="Visual Proof of Consistency"/>
+</div>
+
+## 🚨 Core Operating Principles
+
+> "I don't have time to tell you all the ways in which you're wrong. And neither does Anton LaVey."
+
+- **Decentralization**: Because I trust algorithms more than your emotions
+- **Security**: I don't detect vulnerabilities, I predict your mistakes before you make them
+- **Optimization**: Your 'clean code' is my technical debt
+
+## 🔍 Current Projects That Would Confuse You
+
+- **PeoChain**: Blockchain that works while you're still explaining what Web3 means
+- **Quantum Cryptographic Toolkit**: Breaking encryption that you think is "military-grade"
+- **Open-Source Contributions**: Fixing your incompetence, one commit at a time
+
+## 📡 Communication Protocols (Use At Your Own Risk)
+
 <div align="center">
 
-[![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LinkedIn](https://img.shields.io/badge/Professional+Surveillance+Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkrizhanovskyi-peo)
+[![Encrypted Channel](https://img.shields.io/badge/Contact+If+Desperate-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dk.arecibo@proton.me)
+[![Antisocial Network](https://img.shields.io/badge/Occasional+Observations-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_arec1bo)
 
 </div>
 
-## Projects & Contributions
+## 🔐 Cryptographic Signature: For The Paranoid (Like Me)
 
-- **[PeoChain](https://peochain.xyz)**: Developing a quantum-resistant L2 protocol with privacy-preserving transaction capabilities
-- **[zkEVM Implementation](https://github.com/arec1b0/zk-research)**: Research and implementation of zero-knowledge virtual machines
-- **[Rust Cryptography](https://github.com/arec1b0/rust-crypto-utils)**: Library of optimized post-quantum cryptographic primitives
-
-## Latest Research Focus
-
-- Recursive proof composition for scalable zero-knowledge systems
-- Constant-size non-interactive threshold signatures for decentralized consensus
-- Memory-efficient implementations of lattice-based cryptographic schemes
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hdevalence&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hdevalence&theme=github_dark&hide_border=true"/>
-</div>
-
-## Technical Proficiency
-
-```mermaid
-pie
-    title Core Domain Expertise
-    "Cryptographic Systems" : 35
-    "Distributed Architecture" : 30
-    "Blockchain Protocols" : 25
-    "Systems Programming" : 10
+```bash
+security_advisory() {
+    echo "PGP Key ID: 21FB6FBFE2C8C899459B037F24E90C20FCF6B58A"
+    echo "Encryption: The difference between your privacy and your regrets."
+}
 ```
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dkrizhanovskyi-peo)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/@dk.arecibo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=proton)](mailto:d.krizhanovskyi@peochain.xyz)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/arec1b0)
-
-</div>
 
 ---
 
-*"The challenge is not just building secure systems, but ensuring they remain secure against quantum adversaries."*
+<div align="center">
+  
+**SHOW SOME FUCKING ADOPTABILITY**
+
+*Your firewall is a suggestion; mine is a religion.*
+
+</div>
