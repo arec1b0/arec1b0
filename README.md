@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-7%2C003%20hrs%2020%20mins-blue?style=for-the-badge" alt="Time spent coding" />
+  <img src="https://img.shields.io/badge/Code%20Time-7%2C203%20hrs%2020%20mins-blue?style=for-the-badge" alt="Time spent coding" />
   <a href="https://github.com/arec1b0"><img src="https://komarev.com/ghpvc/?username=arec1b0&base=321&color=2188ff&style=for-the-badge&label=UNFORTUNATE+VISITORS" alt="GitHub Profile Views" /></a>
   <a href="https://github.com/hdevalence?tab=repositories"><img src="https://img.shields.io/github/stars/hdevalence?logo=github&style=for-the-badge&color=2188ff" alt="GitHub Stars" /></a>
 </div>
