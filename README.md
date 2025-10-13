@@ -1,47 +1,31 @@
-# 👋 Hi, I’m @arec1b0
+# Hi, I’m @arec1b0 👋
 
-Welcome to my GitHub!  
-I’m passionate about building robust, production-ready solutions that bridge machine learning, cloud-native infrastructure, and blockchain technology.
+### MLOps Engineer & Blockchain Systems Developer
 
----
-
-## 🚀 About Me
-
-- **Profession:** MLOps Engineer & Blockchain Systems Developer
-- **Interests:** Real-time machine learning, scalable API design, decentralized systems, and cloud-native DevOps.
-- **Philosophy:** Build for reliability, observability, and extensibility—from AI microservices to protocols.
+I build robust, production-ready solutions at the intersection of machine learning, cloud-native infrastructure, and blockchain technology. My focus is on reliability, observability, and performance—from AI microservices to decentralized protocols.
 
 ---
 
-## 🏆 Featured & Favorite Projects
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Rust, Nim, Solidity, Go, TypeScript
+- **MLOps & DevOps:** Kubernetes, Docker, Prometheus, Grafana, MLflow, GitHub Actions, HCL
+- **ML & Data:** PyTorch, FastAPI, Hugging Face, Pandas, Pandera
+- **Blockchain:** Ethereum, Solidity, Smart Contracts (Staking, Governance)
+
+---
+
+## 🏆 Featured Projects
 
 ### MLOps & AI
-- [**KubeSentiment**](https://github.com/arec1b0/KubeSentiment)  
-  Production-grade MLOps project for sentiment analysis with FastAPI, Kubernetes, Prometheus, and CI/CD.
-- [**mlops-pipeline**](https://github.com/arec1b0/mlops-pipeline)  
-  Advanced ML pipeline automation and reproducibility using Python, PowerShell, and Makefile.
-- [**portable-predictor**](https://github.com/arec1b0/portable-predictor)  
-  Minimal FastAPI microservice for ML inference; robust CI/CD with Docker and GitHub Actions.
+- **[KubeSentiment](https://github.com/arec1b0/KubeSentiment)**: Production-grade sentiment analysis API with a full MLOps lifecycle on Kubernetes.
+- **[mlops-pipeline](https://github.com/arec1b0/mlops-pipeline)**: Advanced, reproducible ML pipelines using a lean stack of Python, PowerShell, and Make.
+- **[portable-predictor](https://github.com/arec1b0/portable-predictor)**: A minimal, robust FastAPI microservice for ML model inference with CI/CD.
 
 ### Blockchain & Decentralized Systems
-- [**nim-blockchain-node**](https://github.com/arec1b0/nim-blockchain-node)  
-  High-performance blockchain node in Nim, with modular consensus (PoS/BFT), ZK proofs, and optimized P2P.
-- [**PeoPay-Core**](https://github.com/peochain/PeoPay-Core)  
-  Solidity contracts for token, staking, governance, and secure DCS for the PeoPay ecosystem.
-- [**peochain-demo**](https://github.com/peochain/peochain-demo)  
-  Rust-powered blockchain testnet demonstrating high throughput and cross-chain logic.
-- [**peochain-validator-bond**](https://github.com/peochain/peochain-validator-bond)  
-  Validator bonding and staking logic in Rust and TypeScript.
-
----
-
-## 🛠️ Skills & Technology
-
-- **Languages:** Python, Rust, Nim, Solidity, Shell, TypeScript, Go, HCL, Dockerfile
-- **Frameworks:** FastAPI, Hugging Face Transformers, PyTorch, scikit-learn
-- **DevOps/MLOps:** Kubernetes, Docker, Prometheus, Grafana, MLflow, GitHub Actions
-- **Data & Validation:** Pandas, Pandera, Great Expectations
-- **Blockchain:** Ethereum/Solidity, Rust/Nim blockchain development, smart contracts, staking/governance
+- **[nim-blockchain-node](https://github.com/arec1b0/nim-blockchain-node)**: High-performance blockchain node in Nim, featuring modular consensus and ZK proofs.
+- **[PeoPay-Core](https://github.com/peochain/PeoPay-Core)**: Core Solidity contracts for the PeoPay ecosystem (token, staking, governance).
+- **[peochain-demo](https://github.com/peochain/peochain-demo)**: A Rust-based testnet demonstrating high-throughput cross-chain logic.
 
 ---
 
@@ -56,17 +40,9 @@ I’m passionate about building robust, production-ready solutions that bridge m
 
 ## 📫 Let’s Connect
 
-- 📧 [dani.levi.kaufman@gmail.com](mailto:dani.levi.kaufman@gmail.com)
-- 🐦 [@Crop_Cead](https://twitter.com/Crop_Cead)
+- **Email:** [dani.levi.kaufman@gmail.com](mailto:dani.levi.kaufman@gmail.com)
+- **Twitter:** [@Crop_Cead](https://twitter.com/Crop_Cead)
 
 ---
 
-## ⚡ Fun Fact
-
-I thrive at the intersection of machine learning, blockchain, and distributed systems—always learning, always building.
-
----
-
-<!--
-This README is a dynamic intro! To further tweak, update your profession, skills, or add new projects.
--->
+> **Fun Fact:** I once built a blockchain from scratch in Nim just to see how fast I could make it. Spoiler: pretty fast.
