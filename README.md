@@ -32,8 +32,8 @@ I build robust, production-ready solutions at the intersection of machine learni
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arec1b0&show_icons=true&theme=github_dark" alt="arec1b0's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arec1b0&layout=compact&theme=github_dark&hide=html" alt="Top Languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=arec1b0&show_icons=true&theme=github_dark" alt="arec1b0's GitHub stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arec1b0&layout=compact&theme=github_dark&hide=html" alt="Top Languages" height="170" />
 </p>
 
 ---
