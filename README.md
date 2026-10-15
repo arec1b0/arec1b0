@@ -74,6 +74,7 @@ I build reliable, observable, production-grade ML and LLM systems on cloud-nativ
 - **[ml-platform](https://github.com/arec1b0/ml-platform)** — Production-ready ML serving platform designed for high performance, reliability, scalability, and robust observability.
 
 ### LLMOps & Agentic Systems
+- **[cuad-doc-qa](https://github.com/arec1b0/cuad-doc-qa)** — Document Q&A with verifiable citations over the CUAD contract corpus: BM25 retrieval, local LLM via Ollama, grounded quotes, abstention gate, and rigorous evaluation (recall, citation precision, latency).
 - **[rag-ops-system](https://github.com/arec1b0/rag-ops-system)** — Production-grade Agentic RAG system with self-correcting LangGraph agents, Milvus vector search, MLflow monitoring, A/B testing, and Ragas evaluation + CI/CD quality gates.
 - **[runbook-agent](https://github.com/arec1b0/runbook-agent)** — DevOps/SRE runbook agent that ingests Prometheus Alertmanager alerts, triages them with an LLM against approved runbooks, and executes remediation through a safety chain.
 - **[llm-latency-profiler](https://github.com/arec1b0/llm-latency-profiler)** — Benchmark tool for any Ollama model measuring latency and throughput across context size, quantization, and concurrency; generates interactive HTML reports.
